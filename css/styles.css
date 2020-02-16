@@ -18,6 +18,10 @@ img{
 #radio-inline{
     font-size:17px;
 }
-#Male{
-   float:left;
+h2{
+    color:black;
+    text-align: center;
+    text-shadow: aqua;
+    font-size: 40px;
+    font-weight: 800;
 }
