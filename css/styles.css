@@ -7,14 +7,14 @@ background: linear-gradient(to bottom, #FBBC05 12%, #8C2800 95%);
   /*float: right;
   /border-radius: 100%;888*/
   background: linear-gradient(to bottom,#8C2800 12%, #8C2800 95%);
-  font-size: 15px;
+  font-size: 17px;
 }
 #jumbotron {
-  font-size:15px;
+  font-size:17px;
 }
 img{
   margin-left: 200px
 }
 #radio-inline{
-    font-size:15px;
+    font-size:17px;
 }
