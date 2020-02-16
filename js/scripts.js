@@ -32,6 +32,8 @@ var month =parseInt(document.getElementById("month").value);
 var day=parseInt(document.getElementById("day").value);
 var male = document.getElementById("male");
 var female = document.getElementById("female");
+
+
 //validation
 if(day<=0||day>31)
 alert("Please enter the correct day");
