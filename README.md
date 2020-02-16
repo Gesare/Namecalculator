@@ -4,12 +4,15 @@ This is a web application that takes a user's birthday and calculates the day of
 ## Description
 This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. Here are Ghanian day names.
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+To fix a bug or enhance an existing module, follow these steps:
+
+* Fork the repo
+* Create a new branch (git checkout -b improve-feature)
+* Make the appropriate changes in the files
+* Add changes to reflect the changes made
+* Commit your changes (git commit -am 'Improve feature')
+* Push to the branch (git push origin improve-feature)
+* Create a Pull Request
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
