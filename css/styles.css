@@ -15,25 +15,3 @@ background: linear-gradient(to bottom, #FBBC05 12%, #8C2800 95%);
 img{
   margin-left: 200px
 }
-
-
-
-
-
-.container {
-background: linear-gradient(to bottom, #FBBC05 12%, #8C2800 95%);
-
-}
-.jumbotron{
-  text-align: center;
-  /*float: right;
-  /border-radius: 100%;888*/
-  background: linear-gradient(to bottom,#8C2800 12%, #8C2800 95%);
-  font-size: 20px;
-}
-#jumbotron {
-  font-size:20px;
-}
-img{
-  margin-left: 200px
-}
